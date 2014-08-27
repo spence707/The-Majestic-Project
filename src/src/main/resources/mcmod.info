@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tmp",
+  "name": "The Majestic Project",
+  "description": "Its all about DIAMONDS! or not!",
+  "version": "1.7.10-1.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["spence707"],
+  "credits": "",
+  "logoFile": "logo1.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
