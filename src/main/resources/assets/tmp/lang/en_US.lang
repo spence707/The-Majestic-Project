@@ -1,0 +1,73 @@
+tile.glow_glass.name=Glow Glass
+tile.stone_torch.name=Stone Torch
+tile.clear_glass.name=Clear Glass
+tile.clear_glow_glass.name=Clear Glow Glass
+tile.stained_glow_glass.name=Stained Glow Glass
+
+tile.pearl_block.name=Ender Pearl Block
+tile.bone_block.name=Bone Block
+
+tile.ruby_block.name=Ruby Block
+tile.sapphire_block.name=Sapphire Block
+tile.ruby_ore.name=Ruby Ore
+tile.sapphire_ore.name=Sapphire Ore
+
+item.stone_stick.name=Stone Stick
+item.iron_stick.name=Iron Stick
+
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+
+item.ris.name=Reinforced Iron Sword
+item.rip.name=Reinforced Iron Pickaxe
+item.ria.name=Reinforced Iron Axe
+item.rish.name=Reinforced Iron Shovel
+item.rih.name=Reinforced Iron Hoe
+
+item.rgs.name=Reinforced Iron Gold Sword
+item.rgp.name=Reinforced Iron Gold Pickaxe
+item.rga.name=Reinforced Iron Gold Axe
+item.rgsh.name=Reinforced Iron Gold Shovel
+item.rgh.name=Reinforced Iron Gold Hoe
+
+item.rds.name=Reinforced Iron  Diamond Sword
+item.rdp.name=Reinforced Iron Diamond Pickaxe
+item.rda.name=Reinforced Iron Diamond Axe
+item.rdsh.name=Reinforced Iron Diamond Shovel
+item.rdh.name=Reinforced Iron Diamond Hoe
+
+item.rrs.name=Reinforced Iron  Ruby Sword
+item.rrp.name=Reinforced Iron Ruby Pickaxe
+item.rra.name=Reinforced Iron Ruby Axe
+item.rrsh.name=Reinforced Iron Ruby Shovel
+item.rrh.name=Reinforced Iron Ruby Hoe
+
+item.srs.name=Reinforced Iron  Sapphire Sword
+item.srp.name=Reinforced Iron Sapphire Pickaxe
+item.sra.name=Reinforced Iron Sapphire Axe
+item.srsh.name=Reinforced Iron Sapphire Shovel
+item.srh.name=Reinforced Iron Sapphire Hoe
+
+item.rs.name=Ruby Sword
+item.rp.name=Ruby Pickaxe
+item.ra.name=Ruby Axe
+item.rsh.name=Ruby Shovel
+item.rh.name=Ruby Hoe
+
+item.ss.name=Sapphire Sword
+item.sp.name=Sapphire Pickaxe
+item.sa.name=Sapphire Axe
+item.ssh.name=Sapphire Shovel
+item.sh.name=Sapphire Hoe
+
+item.rah.name=Ruby Helment
+item.rac.name=Ruby Chestplate
+item.ral.name=Ruby Leggings
+item.rab.name=Ruby Boots
+
+item.sah.name=Sapphire Helment
+item.sac.name=Sapphire Chestplate
+item.sal.name=Sapphire Leggings
+item.sab.name=Sapphire Boots
+
+itemGroup.tabGlass=Glass
